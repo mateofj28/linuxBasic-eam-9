@@ -1,0 +1,14 @@
+recordemos control + o -> para guadar
+luego presionamos enter
+luego control x para salir.
+
+name: Mateo
+lastname: Florez Jaramillo
+email: mateo.florez.9854@eam.edu.co
+rh: A+
+cm: 1.84 cm
+
+
+Este es el taller 1.
+Ahora falta sincronizarlo con git
+
